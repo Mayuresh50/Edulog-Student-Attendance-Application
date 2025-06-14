@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/clg"
+    android:paddingBottom="40dp"
+    android:paddingLeft="70dp"
+    android:paddingRight="70dp"
+    android:paddingTop="40dp"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/buttonViewstudent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonaddstudent"
+        android:background="@drawable/roundedbutton"
+        android:layout_marginTop="40dp"
+        android:textStyle="bold"
+        android:text="View student" />
+
+    <Button
+        android:id="@+id/buttonlogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/buttonviewfaculty"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginBottom="43dp"
+        android:background="@drawable/roundedbutton"
+        android:textStyle="bold"
+        android:text="Logout" />
+
+    <Button
+        android:id="@+id/buttonviewfaculty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonaddfaculty"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/roundedbutton"
+        android:text="View faculty"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonaddfaculty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/attendancePerStudentButton"
+        android:layout_alignLeft="@+id/buttonViewstudent"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="14dp"
+        android:background="@drawable/roundedbutton"
+        android:textStyle="bold"
+        android:text="Add faculty" />
+
+    <Button
+        android:id="@+id/buttonaddstudent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/buttonViewstudent"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/roundedbutton"
+        android:textStyle="bold"
+        android:text="Add student" />
+
+    <Button
+        android:id="@+id/attendancePerStudentButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonViewstudent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/roundedbutton"
+        android:textStyle="bold"
+        android:text="Attendance Per Student" />
+
+</RelativeLayout>

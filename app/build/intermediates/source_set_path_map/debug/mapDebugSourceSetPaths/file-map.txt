@@ -1,0 +1,10 @@
+com.example.androidattendancesystem.app-support-media-compat-28.0.0-0 C:\Users\Mayuresh\.gradle\caches\transforms-4\0268089da6c7e210b8143f8811442b72\transformed\support-media-compat-28.0.0\res
+com.example.androidattendancesystem.app-coordinatorlayout-28.0.0-1 C:\Users\Mayuresh\.gradle\caches\transforms-4\5f796446533316a1adf496939faa1955\transformed\coordinatorlayout-28.0.0\res
+com.example.androidattendancesystem.app-support-compat-28.0.0-2 C:\Users\Mayuresh\.gradle\caches\transforms-4\84138f38c71522070570e82b9fb206ec\transformed\support-compat-28.0.0\res
+com.example.androidattendancesystem.app-pngs-3 C:\Users\Mayuresh\OneDrive\Desktop\Edulog Attendance Application\app\build\generated\res\pngs\debug
+com.example.androidattendancesystem.app-resValues-4 C:\Users\Mayuresh\OneDrive\Desktop\Edulog Attendance Application\app\build\generated\res\resValues\debug
+com.example.androidattendancesystem.app-mergeDebugResources-5 C:\Users\Mayuresh\OneDrive\Desktop\Edulog Attendance Application\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.androidattendancesystem.app-mergeDebugResources-6 C:\Users\Mayuresh\OneDrive\Desktop\Edulog Attendance Application\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.androidattendancesystem.app-debug-7 C:\Users\Mayuresh\OneDrive\Desktop\Edulog Attendance Application\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.androidattendancesystem.app-debug-8 C:\Users\Mayuresh\OneDrive\Desktop\Edulog Attendance Application\app\src\debug\res
+com.example.androidattendancesystem.app-main-9 C:\Users\Mayuresh\OneDrive\Desktop\Edulog Attendance Application\app\src\main\res

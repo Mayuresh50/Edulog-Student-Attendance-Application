@@ -1,0 +1,135 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.androidattendancesystem"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:6:5-71:19
+12        android:name="com.android.attendance.context.ApplicationContext"
+12-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:7:10-74
+13        android:allowBackup="true"
+13-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:8:9-35
+14        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+14-->[com.android.support:support-compat:28.0.0] C:\Users\Mayuresh\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:icon="@drawable/ic_launcher"
+17-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:9:9-45
+18        android:label="@string/app_name"
+18-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:10:9-41
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity
+21-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:12:9-21:20
+22            android:name="com.android.attendance.activity.MainActivity"
+22-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:13:13-72
+23            android:exported="true"
+23-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:14:13-36
+24            android:label="@string/app_name" >
+24-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:15:13-45
+25            <intent-filter>
+25-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:17:17-69
+26-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:19:17-77
+28-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:22:10-25:20
+32            android:name="com.android.attendance.activity.LoginActivity"
+32-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:23:13-73
+33            android:label="@string/app_name" >
+33-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:24:13-45
+34        </activity>
+35        <activity
+35-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:26:10-29:20
+36            android:name="com.android.attendance.activity.MenuActivity"
+36-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:27:13-72
+37            android:label="@string/app_name" >
+37-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:28:13-45
+38        </activity>
+39        <activity
+39-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:30:10-33:20
+40            android:name="com.android.attendance.activity.AddFacultyActivity"
+40-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:31:13-78
+41            android:label="@string/app_name" >
+41-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:32:13-45
+42        </activity>
+43        <activity
+43-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:34:9-37:20
+44            android:name="com.android.attendance.activity.AddStudentActivity"
+44-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:35:13-78
+45            android:label="@string/app_name" >
+45-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:36:13-45
+46        </activity>
+47        <activity
+47-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:38:9-41:20
+48            android:name="com.android.attendance.activity.ViewFacultyActivity"
+48-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:39:13-79
+49            android:label="@string/app_name" >
+49-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:40:13-45
+50        </activity>
+51        <activity
+51-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:42:9-45:20
+52            android:name="com.android.attendance.activity.ViewStudentActivity"
+52-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:43:13-79
+53            android:label="@string/app_name" >
+53-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:44:13-45
+54        </activity>
+55        <activity
+55-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:46:9-49:20
+56            android:name="com.android.attendance.activity.TestActivity"
+56-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:47:13-72
+57            android:label="@string/app_name" >
+57-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:48:13-45
+58        </activity>
+59        <activity
+59-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:50:10-53:20
+60            android:name="com.android.attendance.activity.ViewStudentByBranchYear"
+60-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:51:13-83
+61            android:label="@string/app_name" >
+61-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:52:13-45
+62        </activity>
+63        <activity
+63-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:54:11-57:20
+64            android:name="com.android.attendance.activity.AddAttandanceSessionActivity"
+64-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:55:13-88
+65            android:label="@string/app_name" >
+65-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:56:13-45
+66        </activity>
+67        <activity
+67-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:58:10-61:20
+68            android:name="com.android.attendance.activity.AddAttendanceActivity"
+68-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:59:13-81
+69            android:label="@string/app_name" >
+69-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:60:13-45
+70        </activity>
+71        <activity
+71-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:62:10-65:20
+72            android:name="com.android.attendance.activity.ViewAttendanceByFacultyActivity"
+72-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:63:13-91
+73            android:label="@string/app_name" >
+73-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:64:13-45
+74        </activity>
+75        <activity
+75-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:66:10-69:20
+76            android:name="com.android.attendance.activity.ViewAttendancePerStudentActivity"
+76-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:67:13-92
+77            android:label="@string/app_name" >
+77-->C:\Users\Mayuresh\Desktop\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:68:13-45
+78        </activity>
+79    </application>
+80
+81</manifest>

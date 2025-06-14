@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_addstudent.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/addstudent.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_test_layout.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/test_layout.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/drawable-hdpi_clg.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/drawable-hdpi/clg.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_add_student_attendance.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/add_student_attendance.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout___listview_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/__listview_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/drawable-hdpi_roundedbutton.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/drawable-hdpi/roundedbutton.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_menu.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/menu.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/drawable-hdpi_calendar_icon.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/drawable-hdpi/calendar_icon.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/drawable-hdpi_roundedtextview.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/drawable-hdpi/roundedtextview.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_add_attandance.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/add_attandance.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_view_faculty_list.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/view_faculty_list.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_login.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/menu_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_view_attendance_list.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/view_attendance_list.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_activity_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_test_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/test_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_view_student_list.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/view_student_list.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_viewstudent.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/viewstudent.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_view_attendance_list_per_student.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/view_attendance_list_per_student.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_addfaculty.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/addfaculty.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/layout_listview_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/layout/listview_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-debug-7:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-9:/drawable-mdpi/ic_launcher.png"
+    }
+]
